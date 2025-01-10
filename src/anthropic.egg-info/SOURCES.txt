@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/anthropic/__init__.py
+src/anthropic.egg-info/PKG-INFO
+src/anthropic.egg-info/SOURCES.txt
+src/anthropic.egg-info/dependency_links.txt
+src/anthropic.egg-info/requires.txt
+src/anthropic.egg-info/top_level.txt
